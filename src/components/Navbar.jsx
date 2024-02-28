@@ -20,7 +20,7 @@ const Navbar = () => {
         <li className="p-5">
           <a href="#work">Work</a>
         </li>
-        <li className="p-2">
+        <li className="p-5">
           <a href="#experience">Experience</a>
         </li>
         <li className="p-5">
@@ -36,9 +36,7 @@ const Navbar = () => {
             ? "fixed h-full left-0 top-0 w-[60%] bg-[#202121] ease-in-out duration-500"
             : "fixed left-[-100%]"
         }>
-        <h1 className="text-3x1 font-bold primary-color m1-4">
-          Jonathan Battista
-        </h1>
+        <h1 className="text-3x1 primary-color m-4">Jonathan Battista</h1>
         <ul className="p-8 text 2x1">
           <li className="p-2">
             <a href="#about">About</a>
