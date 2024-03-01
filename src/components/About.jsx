@@ -9,10 +9,13 @@ const About = () => {
           <div className="my-auto mx-6">
             <h2 className="text-4xl font-bold mb-4 primary-color">About Me</h2>
             <p className="text-base lg:text-lg">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem cum
-              aspernatur accusamus voluptatibus, odit deserunt facilis ipsam
-              quam eveniet totam placeat praesentium harum accusantium debitis
-              maiores fuga optio numquam quasi?
+              Software engineer who focuses on full stack development in
+              technologies that include JavaScript, NodeJS, React and Express.
+              Excellent at creative problem solving, written and verbal
+              communication and managing large projects and operatons within a
+              workplace. Has a passion for problem solving and learning which
+              led to an interest in software development as it is constantly
+              growing and advancing.
             </p>
           </div>
         </div>

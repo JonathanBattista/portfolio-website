@@ -8,7 +8,7 @@ const Hero = () => {
       <div className="col-span-1 my-auto mx-auto w-[300px] h-auto lg:w-[400px]">
         <img src={heroimage} alt="hero image" />
       </div>
-      <div className="col-span-2 px-5">
+      <div className="col-span-2 px-5 md:mt-48 lg:mt-40">
         <h1 className="text-white text-4xl sm:text-5xl lg:text-8xl font-extrabold">
           <span className="primary-color">I'm a</span> <br />
           <TypeAnimation
