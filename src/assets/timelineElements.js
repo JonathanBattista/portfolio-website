@@ -21,7 +21,7 @@ const timelineElements = [
     date: "2021-2023",
     icon: "work",
     color: "purple",
-    tech: [],
+    tech: ["PLC"],
   },
   {
     id: 3,
