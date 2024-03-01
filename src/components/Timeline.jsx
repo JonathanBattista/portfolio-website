@@ -17,7 +17,7 @@ const Timeline = () => {
               className={`${color2} w-0.5 h-8 translate-x-20 translate-y-80 opacity-60 sm:hidden`}></div>
             <div
               className={`${color2} w-0.5 h-11 translate-x-80 translate-y-80 opacity-60 sm:hidden`}></div> */}
-            <div className="hidden items-start w-44 pt-0.5 relative sm:flex">
+            <div className="hidden items-start w-40 pt-0.5 relative sm:flex">
               <div className="w-4/5 text-gray-500">{element.date}</div>
               <div
                 className={`${color2} w-px h-full translate-x-5 translate-y-10 opacity-30`}></div>
