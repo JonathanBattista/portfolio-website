@@ -12,7 +12,7 @@ const About = () => {
               Software engineer who focuses on full stack development in
               technologies that include JavaScript, NodeJS, React and Express.
               Excellent at creative problem solving, written and verbal
-              communication and managing large projects and operatons within a
+              communication, managing large projects and operatons within a
               workplace. Has a passion for problem solving and learning which
               led to an interest in software development as it is constantly
               growing and advancing.
