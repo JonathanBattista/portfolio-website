@@ -16,7 +16,7 @@ const timelineElements = [
     title: "Operator / Lab Technician",
     location: "Belcamp, Maryland",
     description:
-      "I held a multifaceted role in a manufacturing environment, seamlessly operating machinery while concurrently managing quality assurance tasks in a diverse laboratory setting",
+      "I played a versatile role in a manufacturing setting, smoothly handling machinery and juggling quality assurance responsibilities in a diverse laboratory environment.",
     buttonText: "Details",
     date: "2021-2023",
     icon: "work",
