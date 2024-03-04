@@ -16,7 +16,7 @@ const timelineElements = [
     title: "Operator / Lab Technician",
     location: "Belcamp, Maryland",
     description:
-      "I played a versatile role in a manufacturing setting, smoothly handling machinery and juggling quality assurance responsibilities in a diverse laboratory environment.",
+      "In a manufacturing team, I was a key team member in a multifaceted role that not only involved the operation of machinery but also extended to the rigorous management of quality assurance tasks within a laboratory environment. My responsibilities were amplified by my proficiency in Programmable Logic Controllers (PLCs), where I assisted in adeptly programming, monitoring, and troubleshooting these critical components to ensure the automation of our manufacturing processes.",
     buttonText: "Details",
     date: "2021-2023",
     icon: "work",
@@ -40,7 +40,7 @@ const timelineElements = [
     title: "Started Freelancing",
     location: "Orlando, Florida",
     description:
-      "As a freelance software engineer, I independently provide expertise in programming and coding, specializing in website development and database management. I deliver tailored solutions to diverse clients, showcasing flexibility, project management skills, and a commitment to producing high-quality results.",
+      "As a freelance software engineer, I independently provide expertise in programming and coding, specializing in website development and database management. I deliver tailored solutions to clients, showcasing flexibility, project management skills, and a commitment to producing high-quality results.",
     buttonText: "Details",
     date: "2023-present",
     icon: "work",
