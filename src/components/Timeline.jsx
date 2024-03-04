@@ -4,6 +4,13 @@ import schoolIcon from "../assets/school.svg";
 import workIcon from "../assets/work.svg";
 
 const Timeline = () => {
+  const showAlert = (event) => {
+    event.preventDefault();
+    alert(
+      "For more information on my work history please download my CV or contact me."
+    );
+  };
+
   return (
     <div
       className="flex flex-col justify-center items-center text-white text-base pb-8 sm:text-lg py-10"
@@ -53,6 +60,7 @@ const Timeline = () => {
               />
               <a
                 href="/"
+                onClick={(event) => showAlert(event)}
                 className={`${color2} text-gray-950 font-medium px-4 py-1 rounded-md mx-auto cursor-pointer hover:text-white`}>
                 {element.buttonText}
               </a>
