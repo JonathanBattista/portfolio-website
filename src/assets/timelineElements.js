@@ -16,7 +16,7 @@ const timelineElements = [
     title: "Operator / Lab Technician",
     location: "Belcamp, Maryland",
     description:
-      "In a manufacturing team, I was a key team member in a multifaceted role that not only involved the operation of machinery but also extended to the rigorous management of quality assurance tasks within a laboratory environment. My responsibilities were amplified by my proficiency in Programmable Logic Controllers (PLCs), where I assisted in adeptly programming, monitoring, and troubleshooting these critical components to ensure the automation of our manufacturing processes.",
+      "In a manufacturing team, I was a key member in a multifaceted role that not only involved the operation of machinery but also extended to the rigorous management of quality assurance tasks within a laboratory environment. My responsibilities were amplified by my proficiency in Programmable Logic Controllers (PLCs), where I assisted in adeptly programming, monitoring, and troubleshooting these critical components to ensure the automation of our manufacturing processes.",
     buttonText: "Details",
     date: "2021-2023",
     icon: "work",
@@ -44,7 +44,7 @@ const timelineElements = [
     buttonText: "Details",
     date: "2023-present",
     icon: "work",
-    color: "orange",
+    color: "purple",
     tech: ["JavaScript", "React", "HTML", "CSS", "Typescript"],
   },
 ];
