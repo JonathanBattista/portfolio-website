@@ -30,7 +30,7 @@ const Hero = () => {
         </p>
         <div>
           <a
-            href="./Jonathan Battista Resume.pdf"
+            href="./Jonathan-Battista-Resume.pdf"
             className="px-6 py-3 w-full rounded-x-l mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white"
             download>
             Download CV
