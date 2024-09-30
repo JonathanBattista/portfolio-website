@@ -36,19 +36,35 @@ const Navbar = () => {
             ? "z-10 fixed h-full left-0 top-0 w-[60%] bg-[#202121] ease-in-out duration-500"
             : "fixed left-[-100%]"
         }>
-        <h1 className="text-3xl primary-color m-4">Jonathan Battista</h1>
-        <ul className="p-8 text 2xl">
+        {/* Add a close button */}
+        <div className="flex justify-between items-center m-4">
+          <h1 className="text-3xl primary-color">Jonathan Battista</h1>
+          <AiOutlineClose
+            size={20}
+            onClick={handleNav}
+            className="cursor-pointer"
+          />
+        </div>
+        <ul className="p-8 text-2xl">
           <li className="p-2">
-            <a href="#about">About</a>
+            <a href="#about" onClick={handleNav}>
+              About
+            </a>
           </li>
           <li className="p-2">
-            <a href="#work">Work</a>
+            <a href="#work" onClick={handleNav}>
+              Work
+            </a>
           </li>
           <li className="p-2">
-            <a href="#experience">Experience</a>
+            <a href="#experience" onClick={handleNav}>
+              Experience
+            </a>
           </li>
           <li className="p-2">
-            <a href="#contact">Contact</a>
+            <a href="#contact" onClick={handleNav}>
+              Contact
+            </a>
           </li>
         </ul>
       </div>
